@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Ensemble Investor</title>
+    <item>
+      <title>0.30</title>
+      <pubDate>Thu, 12 Nov 2026 11:08:22 -0500</pubDate>
+      <sparkle:version>71</sparkle:version>
+      <sparkle:shortVersionString>0.30</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>Signed, notarized builds with in-app updates</description>
+      <enclosure url="https://github.com/khirsh/ensemble-investor-releases/releases/download/v0.30/EnsembleInvestor-0.30.dmg" sparkle:edSignature="J8vZA1uQG+y58RjDxt1XOf0Am86pGKRr5pI14pA8uzvknOabVdcDDdrAW7WGPJWWYRupesu/leIzyYsxJrp3AQ==" length="6442758" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
