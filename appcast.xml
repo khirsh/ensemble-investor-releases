@@ -3,13 +3,13 @@
   <channel>
     <title>Ensemble Investor</title>
     <item>
-      <title>0.30.1</title>
-      <pubDate>Mon, 16 Nov 2026 20:26:46 -0500</pubDate>
-      <sparkle:version>72</sparkle:version>
-      <sparkle:shortVersionString>0.30.1</sparkle:shortVersionString>
+      <title>0.30.2</title>
+      <pubDate>Fri, 20 Nov 2026 15:19:39 -0500</pubDate>
+      <sparkle:version>73</sparkle:version>
+      <sparkle:shortVersionString>0.30.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description>Report Issue says when a title is missing, and starts new reports at High priority.</description>
-      <enclosure url="https://github.com/khirsh/ensemble-investor-releases/releases/download/v0.30.1/EnsembleInvestor-0.30.1.dmg" sparkle:edSignature="2oBFyddwusazrXsZiLESEa2qxGXrYJ2nQTaug+vRs3AbBnd/W9d2vhAGpODmLhg5jXq5LMOdtZHSH2YfB9WiAg==" length="6468913" type="application/octet-stream"/>
+      <description>Add a Symbol now finds short tickers such as ANT</description>
+      <enclosure url="https://github.com/khirsh/ensemble-investor-releases/releases/download/v0.30.2/EnsembleInvestor-0.30.2.dmg" sparkle:edSignature="Xmjr9lj7CCdTu57oSEsQ9XoVn1JwGJObyy8uYSPq7qFjn5XBEIk6/JoP5VNrXtpMKTRSrmu6TuwqhctoLLEmCw==" length="6474662" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
