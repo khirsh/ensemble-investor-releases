@@ -1,9 +1,9 @@
 {
-  "commit": "ea6c145",
-  "latestBuild": 74,
-  "latestVersion": "0.30.3",
+  "commit": "adec15d",
+  "latestBuild": 75,
+  "latestVersion": "0.31",
   "minimumBuild": 0,
-  "notes": "Market cap loads right away for a symbol added from search",
-  "publishedAt": "2026-11-20T15:28:25-05:00",
+  "notes": "Live valuation columns in Markets: P/E, EV/EBIT, EV/EBITDA and five more",
+  "publishedAt": "2026-11-20T16:53:19-05:00",
   "schemaVersion": 1
 }
