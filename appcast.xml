@@ -3,13 +3,13 @@
   <channel>
     <title>Ensemble Investor</title>
     <item>
-      <title>0.31.3</title>
-      <pubDate>Thu, 26 Nov 2026 17:06:21 -0500</pubDate>
-      <sparkle:version>78</sparkle:version>
-      <sparkle:shortVersionString>0.31.3</sparkle:shortVersionString>
+      <title>0.31.4</title>
+      <pubDate>Thu, 26 Nov 2026 17:12:48 -0500</pubDate>
+      <sparkle:version>79</sparkle:version>
+      <sparkle:shortVersionString>0.31.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description>Things to Check leaves the sidebar when there is nothing to check</description>
-      <enclosure url="https://github.com/khirsh/ensemble-investor-releases/releases/download/v0.31.3/EnsembleInvestor-0.31.3.dmg" sparkle:edSignature="Rvkm3iYeD9m5O8lfSNgoFI+X2QOkey5A6BNgI7qLyTiDtNYxRgILyod5wIdY4tq7cluriYDmPEaz+S6U2ZpSBQ==" length="6597463" type="application/octet-stream"/>
+      <description>A more visible + button in the sidebar; New Investment (⌘N) in the File menu</description>
+      <enclosure url="https://github.com/khirsh/ensemble-investor-releases/releases/download/v0.31.4/EnsembleInvestor-0.31.4.dmg" sparkle:edSignature="m6dgSyOYdXyipOVXYQN77/yMwmF4ghB7jWufrBng6ld9Clta5lcV02i1AAiWRq/PBJritHH+CefJc8s6JHy2BQ==" length="6606969" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>

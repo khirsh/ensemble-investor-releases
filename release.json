@@ -1,9 +1,9 @@
 {
-  "commit": "8e647d9",
-  "latestBuild": 78,
-  "latestVersion": "0.31.3",
+  "commit": "eff61a5",
+  "latestBuild": 79,
+  "latestVersion": "0.31.4",
   "minimumBuild": 0,
-  "notes": "Things to Check leaves the sidebar when there is nothing to check",
-  "publishedAt": "2026-11-26T17:06:21-05:00",
+  "notes": "A more visible + button in the sidebar; New Investment (\u2318N) in the File menu",
+  "publishedAt": "2026-11-26T17:12:48-05:00",
   "schemaVersion": 1
 }
