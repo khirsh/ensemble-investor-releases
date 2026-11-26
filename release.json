@@ -1,9 +1,9 @@
 {
-  "commit": "adec15d",
-  "latestBuild": 75,
-  "latestVersion": "0.31",
+  "commit": "2c4ac90",
+  "latestBuild": 76,
+  "latestVersion": "0.31.1",
   "minimumBuild": 0,
-  "notes": "Live valuation columns in Markets: P/E, EV/EBIT, EV/EBITDA and five more",
-  "publishedAt": "2026-11-20T16:53:19-05:00",
+  "notes": "Markets shows the last close instead of 0 on holidays; reported bugs start in Todo",
+  "publishedAt": "2026-11-26T15:02:37-05:00",
   "schemaVersion": 1
 }

@@ -3,13 +3,13 @@
   <channel>
     <title>Ensemble Investor</title>
     <item>
-      <title>0.31</title>
-      <pubDate>Fri, 20 Nov 2026 16:53:19 -0500</pubDate>
-      <sparkle:version>75</sparkle:version>
-      <sparkle:shortVersionString>0.31</sparkle:shortVersionString>
+      <title>0.31.1</title>
+      <pubDate>Thu, 26 Nov 2026 15:02:37 -0500</pubDate>
+      <sparkle:version>76</sparkle:version>
+      <sparkle:shortVersionString>0.31.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description>Live valuation columns in Markets: P/E, EV/EBIT, EV/EBITDA and five more</description>
-      <enclosure url="https://github.com/khirsh/ensemble-investor-releases/releases/download/v0.31/EnsembleInvestor-0.31.dmg" sparkle:edSignature="iqV9tYzNbySVaRQ1RrDRxBplW3v5WciduwfshZ+VA7p+KSJOm5x8hM4tlN+MxGYskKiSI3EeIqisSrtGZemHAg==" length="6585898" type="application/octet-stream"/>
+      <description>Markets shows the last close instead of 0 on holidays; reported bugs start in Todo</description>
+      <enclosure url="https://github.com/khirsh/ensemble-investor-releases/releases/download/v0.31.1/EnsembleInvestor-0.31.1.dmg" sparkle:edSignature="JiIQm+b6hXm5EsViPXGqRG8noY8318mDiUORm7IaT05ineDoAPl/m6ZsUdwshfpevyQXdog7RXoEikQUfQEjAg==" length="6587370" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
