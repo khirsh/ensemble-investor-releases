@@ -1,9 +1,9 @@
 {
-  "commit": "76dc9b2",
-  "latestBuild": 77,
-  "latestVersion": "0.31.2",
+  "commit": "8e647d9",
+  "latestBuild": 78,
+  "latestVersion": "0.31.3",
   "minimumBuild": 0,
-  "notes": "Adds a --fresh launch flag for trying the app as a brand-new user.",
-  "publishedAt": "2026-11-26T15:24:46-05:00",
+  "notes": "Things to Check leaves the sidebar when there is nothing to check",
+  "publishedAt": "2026-11-26T17:06:21-05:00",
   "schemaVersion": 1
 }
