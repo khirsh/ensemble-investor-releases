@@ -1,9 +1,9 @@
 {
-  "commit": "2c4ac90",
-  "latestBuild": 76,
-  "latestVersion": "0.31.1",
+  "commit": "76dc9b2",
+  "latestBuild": 77,
+  "latestVersion": "0.31.2",
   "minimumBuild": 0,
-  "notes": "Markets shows the last close instead of 0 on holidays; reported bugs start in Todo",
-  "publishedAt": "2026-11-26T15:02:37-05:00",
+  "notes": "Adds a --fresh launch flag for trying the app as a brand-new user.",
+  "publishedAt": "2026-11-26T15:24:46-05:00",
   "schemaVersion": 1
 }
